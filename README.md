@@ -7,8 +7,7 @@ I am a high school student with a passion for programming and pixel art. I am cu
 In the future, I hope to contribute to open-source projects and collaborate with other developers.
 
 Check out my pixel art creations on Instagram at ig: [@d_monk10](https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDQ0MTY5NTA1ODU1ODA5?igsh=NTc4MTIwNjQ2YQ). However, I am more active on Discord.
-
-![chat](https://github.com/user-attachments/assets/b238a998-becf-46e5-8ee2-dcc96c39cd99)
+![chat](https://github.com/user-attachments/assets/33fe6619-08eb-41fc-bdac-1bd3f387c2c6)
 
 
 ---
