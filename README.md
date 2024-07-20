@@ -1,16 +1,15 @@
-## Hi there 👋
+Hello and welcome to my profile!
 
-<!--
-**alalss10/alalss10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alfian Bagus Ramadhani, but you can call me Fin, my nickname, or **AKA** as **Monk** on internet platforms.
 
-Here are some ideas to get you started:
+I am a high school student with a passion for programming and pixel art. I am currently learning coding and creating pixel art for a plugin project of one of the biggest games for community-based extension content.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In the future, I hope to contribute to open-source projects and collaborate with other developers.
+
+Check out my pixel art creations on Instagram at ig: [@d_monk10](https://www.instagram.com/s/aGlnaGxpZ2h0OjE4MDQ0MTY5NTA1ODU1ODA5?igsh=NTc4MTIwNjQ2YQ). However, I am more active on Discord.
+
+![chat](https://github.com/user-attachments/assets/b238a998-becf-46e5-8ee2-dcc96c39cd99)
+
+
+---
+**Thank you for visiting my profile!**
